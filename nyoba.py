@@ -1,4 +1,6 @@
 nama = input("Masukkan nama: ")
 kelas = input("Masukkan kelas")
+npm = input("Masukkan npm")
 print("Halo! ", nama)
 print("Kelasmu di ", kelas )
+print("NPMmu adalah ", npm)
