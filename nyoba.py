@@ -1,2 +1,2 @@
-namalengkap = input("Masukkan nama lengkap: ")
-print("Halo! ", namalengkap)
+namal = input("Masukkan nama lengkap: ")
+print("Halo! ", namal)
