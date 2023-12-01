@@ -13,3 +13,5 @@ print("Umur kamu", umur)
 #serahhhh sheeeebbbbb nih kutambahin hoho
 print("Alamat kamu", alamat)
 print("Selesai :)")
+
+print("Selesai beneran?")
